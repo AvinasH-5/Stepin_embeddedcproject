@@ -1,6 +1,6 @@
-# Passenger-controlled car seats allow heated by using heater
+# Passenger-controlled 
 
-## Introducation
+## Introduction
    
    The vehicle having major feature. In this technology it is used to determine the presence of the passanger and if the passanger existing in side the car then our system starts the functionality.
 So in nowdays everything is becoming automated and everyone is looking for the new products to made the life easier.
