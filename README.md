@@ -20,8 +20,9 @@ Folder             | Description
 `3_Implementation` | All required codes and documentation
 `4_Images`         | Documents with simulation Images
 
-
-
+# Batches
+![code quality score](https://www.code-inspector.com/project/28800/score/svg) 
+![code Grade](https://www.code-inspector.com/project/28800/status/svg) 
 
 
 
