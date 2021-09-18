@@ -2,7 +2,8 @@
 
 ## Introduction
    
-  
+Now a days many countries are facing problem with cooling issue due to weather conditions because of that the vechicle seats are getting cold and making the passenger drive the vechile uncomfortably ,So inorder to resolve this issue we have coe up with an idea that is seat heater controlled by the passenger .
+
 So in nowdays everything is becoming automated and everyone is looking for the new products to made the life easier.
 
 In our project the main aim is to design and develop the system which is capable of monitoring the passanger's existance and Heat Monitoring
