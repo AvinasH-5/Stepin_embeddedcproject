@@ -15,10 +15,10 @@ and Displaying.
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
-`1_Requirements`   | Documents detailing requirements and research
-`2_Design`         | Documents specifying design details
-`3_Implementation` | All code and documentation
-`4_Video_&_Image`  | Documents with tested video & Image
+`1_Requirements`   | Documents containing requirements 
+`2_Design`         | Documents specifying design details of circuit
+`3_Implementation` | All required codes and documentation
+`4_Images`         | Documents with simulation Images
 
 
 
